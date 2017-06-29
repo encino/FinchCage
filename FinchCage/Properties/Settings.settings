@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FinchCage.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Currencies" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NZD,GBP,JPY,Default</Value>
+    </Setting>
+    <Setting Name="CurrencyValues" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3,1,1,3</Value>
+    </Setting>
+    <Setting Name="TargetDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\encino\Documents\test</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

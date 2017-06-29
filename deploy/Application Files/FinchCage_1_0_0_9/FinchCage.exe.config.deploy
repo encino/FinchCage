@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="FinchCage.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <userSettings>
+        <FinchCage.Properties.Settings>
+            <setting name="Currencies" serializeAs="String">
+                <value>NZD,GBP,JPY,Default</value>
+            </setting>
+            <setting name="CurrencyValues" serializeAs="String">
+                <value>3,1,1,3</value>
+            </setting>
+            <setting name="TargetDir" serializeAs="String">
+                <value>C:\Users\encino\Documents\test</value>
+            </setting>
+        </FinchCage.Properties.Settings>
+    </userSettings>
+</configuration>
