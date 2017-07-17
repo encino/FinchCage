@@ -11,5 +11,8 @@
     <Setting Name="TargetDir" Type="System.String" Scope="User">
       <Value Profile="(Default)">C:\Users\encino\Documents\test</Value>
     </Setting>
+    <Setting Name="DirectBlock" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NZDCHF,EURNZD,I|AUDCHF,EURAUD,I</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
