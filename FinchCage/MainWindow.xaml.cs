@@ -67,6 +67,7 @@ namespace FinchCage {
             //GridCurrencies.RowDefinitions.Add(gridRow1);
             //GridCurrencies.RowDefinitions.Add(gridRow2);
             //GridCurrencies.RowDefinitions.Add(gridRow3);
+            //
 
             //foreach (SettingsPropertyValue property in FinchCage.Properties.Settings.Default.PropertyValues)
             //{
